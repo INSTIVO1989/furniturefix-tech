@@ -30,5 +30,8 @@ Copy `.env.example` to `.env` and add only public frontend credentials where app
 
 Planned secure routes: /customer, /technician, /admin, /b2b/dashboard.
 
+## Preview deployment
+GitHub Pages is configured through GitHub Actions for non-production preview testing.
+
 ## Deployment
 Do not point furniturefix.tech to this project until the production build, booking flow, security and responsive tests are verified.
